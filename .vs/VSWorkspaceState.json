@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\eschool",
+    "\\eschool\\dashboard",
+    "\\eschool\\dashboard\\templates",
+    "\\eschool\\dashboard\\templates\\dashboard",
+    "\\eschool\\eschool",
+    "\\eschool\\teacher\\templates",
+    "\\eschool\\teacher\\templates\\teacher"
+  ],
+  "SelectedNode": "\\eschool\\eschool\\settings.py",
+  "PreviewInSolutionExplorer": false
+}
